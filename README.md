@@ -10,7 +10,7 @@
     <img alt="CV Spanish" title="CV Spanish" src="https://custom-icon-badges.demolab.com/badge/-CV%20Spanish-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
  <a href="https://drive.google.com/file/d/1nx6phFintm2ItdPP61ltqAcsK97czwKN/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img alt="CV English" title="CV English" src="https://custom-icon-badges.demolab.com/badge/-CV%20English-teal?style=for-the-badge&logo=download&logoColor=white"/></a>
- <a href="www.linkedin.com/in/nicolas-fridman-b25941283" target="_blank" rel="noopener noreferrer">
+ <a href="https://www.linkedin.com/in/nicolas-fridman-b25941283/" target="_blank" rel="noopener noreferrer">
     <img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
  <a href="https://www.instagram.com/nicolas_fridman/" target="_blank" rel="noopener noreferrer">
     <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
