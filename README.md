@@ -16,6 +16,8 @@
     <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
  <a href="https://github.com/NicolasFridman?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img alt="Repositorios" title="Mira mis repositorios" src="https://custom-icon-badges.demolab.com/badge/-Repositorios-grey?style=for-the-badge&logoColor=white&logo=github"/></a>
+ <a href="https://nicolasfridman.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img alt="Portfolio" title="Mira mi Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portafolio-d16a0c?style=for-the-badge&logo=link&logoColor=white"/></a>
 </p>
 
 ## About me
