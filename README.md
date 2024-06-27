@@ -6,9 +6,9 @@
 <h4>I have a strong interest in user interface and experience. I'm always learning and improving methodologies to boost productivity and code quality. I want to add knowledge and perfect what I have learned.📖</h4>
 
 <p align="center">
- <a href="https://drive.google.com/file/d/11UjAltAAZcBz0Nylsxv4raalHITwLakY/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+ <a href="https://drive.google.com/file/d/116-rC7z9GiCqb2l3I-Mzy8XB97Bam1Vm/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img alt="CV Spanish" title="CV Spanish" src="https://custom-icon-badges.demolab.com/badge/-CV%20Spanish-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
- <a href="https://drive.google.com/file/d/1nx6phFintm2ItdPP61ltqAcsK97czwKN/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+ <a href="https://drive.google.com/file/d/16E8jUFLRiaOJMFOMANnolW7OyyxILf9w/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img alt="CV English" title="CV English" src="https://custom-icon-badges.demolab.com/badge/-CV%20English-teal?style=for-the-badge&logo=download&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/nicolas-fridman-b25941283/" target="_blank" rel="noopener noreferrer">
     <img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
