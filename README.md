@@ -6,9 +6,9 @@
 <h4>I have a strong interest in user interface and experience. I'm always learning and improving methodologies to boost productivity and code quality. I want to add knowledge and perfect what I have learned.📖</h4>
 
 <p align="center">
- <a href="https://drive.google.com/file/d/116-rC7z9GiCqb2l3I-Mzy8XB97Bam1Vm/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+ <a href="https://drive.google.com/file/d/1SE6ph6SsT4Wkaz4vlYCgC5ZlqCvabI6J/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img alt="CV Spanish" title="CV Spanish" src="https://custom-icon-badges.demolab.com/badge/-CV%20Spanish-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
- <a href="https://drive.google.com/file/d/16E8jUFLRiaOJMFOMANnolW7OyyxILf9w/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+ <a href="https://drive.google.com/file/d/1siQNKbiRsNiviSvV474BIFWPjE2l7xwU/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img alt="CV English" title="CV English" src="https://custom-icon-badges.demolab.com/badge/-CV%20English-teal?style=for-the-badge&logo=download&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/nicolas-fridman-b25941283/" target="_blank" rel="noopener noreferrer">
     <img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
@@ -61,6 +61,7 @@
 ### 🧰 Tools
 
 <img align="left" alt="Linux" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Docker" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Npm" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="VisualStudio" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
